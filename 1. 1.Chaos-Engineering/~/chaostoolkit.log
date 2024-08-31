@@ -1,0 +1,35 @@
+[36m[2024-08-21 08:10:16 DEBUG] [__init__:101][39m ###############################################################################
+[36m[2024-08-21 08:10:16 DEBUG] [__init__:102][39m Running command 'run'
+[36m[2024-08-21 08:10:16 DEBUG] [__init__:106][39m Using settings file 'C:\Users\Administrator\.chaostoolkit\settings.yaml'
+[36m[2024-08-21 08:10:33 DEBUG] [__init__:101][39m ###############################################################################
+[36m[2024-08-21 08:10:33 DEBUG] [__init__:102][39m Running command 'run'
+[36m[2024-08-21 08:10:33 DEBUG] [__init__:106][39m Using settings file 'C:\Users\Administrator\.chaostoolkit\settings.yaml'
+[36m[2024-08-21 08:10:34 DEBUG] [settings:31][39m The Chaos Toolkit settings file could not be found at 'C:\Users\Administrator\.chaostoolkit\settings.yaml'.
+[36m[2024-08-21 08:10:34 DEBUG] [__init__:472][39m No controls to apply on 'loader'
+[36m[2024-08-21 08:10:34 DEBUG] [__init__:472][39m No controls to apply on 'loader'
+[31m[2024-08-21 08:10:34 ERROR] [run:178][39m 'd' is not a supported source scheme.
+[36m[2024-08-21 08:10:34 DEBUG] [run:179][39m 'd' is not a supported source scheme.
+[36m[2024-08-21 08:11:06 DEBUG] [__init__:101][39m ###############################################################################
+[36m[2024-08-21 08:11:06 DEBUG] [__init__:102][39m Running command 'run'
+[36m[2024-08-21 08:11:06 DEBUG] [__init__:106][39m Using settings file 'C:\Users\Administrator\.chaostoolkit\settings.yaml'
+[36m[2024-08-21 08:11:08 DEBUG] [settings:31][39m The Chaos Toolkit settings file could not be found at 'C:\Users\Administrator\.chaostoolkit\settings.yaml'.
+[36m[2024-08-21 08:11:08 DEBUG] [__init__:472][39m No controls to apply on 'loader'
+[36m[2024-08-21 08:11:08 DEBUG] [__init__:472][39m No controls to apply on 'loader'
+[31m[2024-08-21 08:11:08 ERROR] [run:178][39m Path "1.1.Chaos-Engineering\defensive-demo\experiments\experiment.json" does not exist.
+[36m[2024-08-21 08:11:08 DEBUG] [run:179][39m Path "1.1.Chaos-Engineering\defensive-demo\experiments\experiment.json" does not exist.
+[36m[2024-08-21 08:11:35 DEBUG] [__init__:101][39m ###############################################################################
+[36m[2024-08-21 08:11:35 DEBUG] [__init__:102][39m Running command 'run'
+[36m[2024-08-21 08:11:35 DEBUG] [__init__:106][39m Using settings file 'C:\Users\Administrator\.chaostoolkit\settings.yaml'
+[36m[2024-08-21 08:11:38 DEBUG] [settings:31][39m The Chaos Toolkit settings file could not be found at 'C:\Users\Administrator\.chaostoolkit\settings.yaml'.
+[36m[2024-08-21 08:11:38 DEBUG] [__init__:472][39m No controls to apply on 'loader'
+[36m[2024-08-21 08:11:38 DEBUG] [__init__:472][39m No controls to apply on 'loader'
+[31m[2024-08-21 08:11:38 ERROR] [run:178][39m Path "defensive-demo\experiments\experiment.json" does not exist.
+[36m[2024-08-21 08:11:38 DEBUG] [run:179][39m Path "defensive-demo\experiments\experiment.json" does not exist.
+[36m[2024-08-21 08:11:46 DEBUG] [__init__:101][39m ###############################################################################
+[36m[2024-08-21 08:11:46 DEBUG] [__init__:102][39m Running command 'run'
+[36m[2024-08-21 08:11:46 DEBUG] [__init__:106][39m Using settings file 'C:\Users\Administrator\.chaostoolkit\settings.yaml'
+[36m[2024-08-21 08:11:48 DEBUG] [settings:31][39m The Chaos Toolkit settings file could not be found at 'C:\Users\Administrator\.chaostoolkit\settings.yaml'.
+[36m[2024-08-21 08:11:48 DEBUG] [__init__:472][39m No controls to apply on 'loader'
+[36m[2024-08-21 08:11:48 DEBUG] [__init__:472][39m No controls to apply on 'loader'
+[31m[2024-08-21 08:11:48 ERROR] [run:178][39m Path "\defensive-demo\experiments\experiment.json" does not exist.
+[36m[2024-08-21 08:11:48 DEBUG] [run:179][39m Path "\defensive-demo\experiments\experiment.json" does not exist.
