@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* In your CSS file or component */
+
+/* Remove card styling */
+figure {
+  border: none;
+  box-shadow: none;
+}
+
+/* Create list layout */
+figure {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+/* Optional: Add a thumbnail to the left */
+figure img {
+  flex-shrink: 0;
+  width: 100px;
+  height: 75px;
+  margin-right: 10px;
+}
+
+/* Optional: Add title and other information to the right */
+figure .info {
+  flex-grow: 1;
+}
+
+/* Optional: Style the title and other information as needed */
+figure .info h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Optional: Add more styling as per your preference */
